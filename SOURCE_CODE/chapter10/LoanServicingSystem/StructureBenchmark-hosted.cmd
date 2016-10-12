@@ -1,0 +1,1 @@
+@java -Dgwt.args="-out www-test" -cp "%~dp0\src;%~dp0\test;%~dp0\bin;c:/gwt15/junit.jar;C:/gwt15/gwt-user.jar;C:/gwt15/gwt-dev-windows.jar" junit.textui.TestRunner com.apress.gwt.chapter3.client.StructureBenchmark %*

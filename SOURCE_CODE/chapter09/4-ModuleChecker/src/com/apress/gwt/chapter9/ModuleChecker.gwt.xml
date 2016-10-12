@@ -1,0 +1,11 @@
+<module>
+
+	<!-- Inherit the core Web Toolkit stuff. -->
+	<inherits name='com.google.gwt.user.User'/>
+	
+	<inherits name='com.apress.gwt.chapter2.PropertyFileReader'/>
+
+	<!-- Specify the app entry point class.                   -->
+	<entry-point class='com.apress.gwt.chapter9.client.ModuleChecker'/>
+  
+</module>

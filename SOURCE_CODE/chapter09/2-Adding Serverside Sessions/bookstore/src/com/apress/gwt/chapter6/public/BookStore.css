@@ -1,0 +1,41 @@
+     body,td,a,div,.p{font-family:arial,sans-serif; background-color: #ccffcc;}
+      div,td{color:#000000}
+      a:link,.w,.w a:link{color:#0000cc}
+      a:visited{color:#551a8b}
+      a:active{color:#ff0000}
+
+      .gwt-Label {
+        background-color: #cccc66;
+        padding: 2px 0px 2px 0px;
+        width: 150px;
+        text-align: center;
+        cursor: hand;	
+      }
+
+      .heading {
+        background-color: #cccc66;
+        padding: 2px 0px 2px 0px;
+        width: 150px;
+        text-align: center;
+        font-weight: bold;
+        cursor: default;	
+      }      
+      
+      .book-category-heading{
+        background-color: #ccffcc;
+        padding: 2px 0px 2px 0px;
+        width: 300px;
+        text-align: center;
+        font-weight: bold;
+      }
+      
+      .gwt-Button {
+  		background:#f5f5f5;
+  		border:1px solid #aaa;
+  		border-top:1px solid #ddd;
+  		border-left:1px solid #ddd;
+  		padding: 2px;
+  		width: 12em;
+      }
+       
+ 

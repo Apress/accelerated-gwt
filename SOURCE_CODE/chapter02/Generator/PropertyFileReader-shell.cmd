@@ -1,0 +1,1 @@
+@java -cp "%~dp0\src;%~dp0\bin;%~dp0\res;C:/gwt/gwt-user.jar;C:/gwt/gwt-dev-windows.jar" com.google.gwt.dev.GWTShell -gen "%~dp0\gen" -out "%~dp0\www" %* com.apress.gwt.chapter2.PropertyFileReader/PropertyFileReader.html

@@ -1,0 +1,13 @@
+<module>
+
+	<!-- Inherit the core Web Toolkit stuff.                  -->
+	<inherits name='com.google.gwt.user.User'/>
+
+	<!-- Specify the app entry point class.                   -->
+	<entry-point class='com.apress.gwt.chapter2.client.PropertyFileReader'/>
+
+	<generate-with class="com.apress.gwt.chapter2.rebind.PropertyReaderGenerator">
+		<when-type-assignable class="com.apress.gwt.chapter2.client.PropertiesReader"/>
+	</generate-with>
+	  
+</module>

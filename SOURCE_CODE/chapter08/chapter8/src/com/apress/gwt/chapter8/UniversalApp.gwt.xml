@@ -1,0 +1,11 @@
+<module>
+
+	<!-- Inherit the core Web Toolkit stuff.                  -->
+	<inherits name='com.google.gwt.user.User'/>
+
+	<!-- Specify the app entry point class.                   -->
+	<entry-point class='com.apress.gwt.chapter8.client.UniversalApp'/>
+	
+	<extend-property name="locale" values="fr"/>
+  
+</module>

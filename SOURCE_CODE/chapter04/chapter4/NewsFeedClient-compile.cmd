@@ -1,0 +1,1 @@
+@java -cp "%~dp0\src;%~dp0\bin;C:/gwt/gwt-user.jar;C:/gwt/gwt-dev-windows.jar" com.google.gwt.dev.GWTCompiler -gen "%~dp0\gen" -out "%~dp0\www" %* com.apress.gwt.chapter4.NewsFeedClient

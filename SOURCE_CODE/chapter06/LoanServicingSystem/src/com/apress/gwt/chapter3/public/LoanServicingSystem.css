@@ -1,0 +1,80 @@
+      body,td,a,div,.p{font-family:arial,sans-serif; background-color: #C3D9FF;}
+      div,td{color:#000000}
+      a:link,.w,.w a:link{color:#0000cc}
+      a:visited{color:#551a8b}
+      a:active{color:#ff0000}
+
+      .loanForm-Panel {
+        cursor: pointer;
+        cursor: hand;
+        padding: 1px;
+        margin: 5px 5px 5px 5px;
+        width: 360px;
+      }
+      
+      .gwt-Label {
+        background-color: #C3D9FF;
+        padding: 2px 0px 2px 0px;
+        width: 150px;
+        text-align: left;
+      }
+      
+      .gwt-Textbox {
+        background-color: #FFDECC;
+        padding: 1px;
+        width: 190px;
+        font-size: smaller;
+      }
+      
+      .gwt-Button {
+        background:#f5f5f5;
+        border:1px solid #aaa;
+        border-top:1px solid #ddd;
+        border-left:1px solid #ddd;
+        padding: 2px;
+        width: 12em;
+      }
+      
+      .gwt-ListBox {
+        background-color: #FFDECC;
+        width: 190px;
+        font-size: smaller;
+        text-align: right;
+      }    
+
+       .gwt-TabBar {
+        padding-top: 2px;
+        border-bottom: 5px solid #336633;
+        background-color: #ccffcc;
+        font-size:0.8em;
+      }
+   
+      .gwt-TabBar .gwt-TabBarFirst {
+      }
+   
+      .gwt-TabBar .gwt-TabBarRest {
+      }
+   
+      .gwt-TabBar .gwt-TabBarItem {
+        padding: 4px;
+        cursor: pointer;
+        cursor: hand;   
+        background-color: #ffcccc;
+        margin-right: 4px;
+      }
+   
+      .gwt-TabBar .gwt-TabBarItem-selected {
+        padding: 4px;
+        font-weight: bold;
+        cursor: default;   
+        background-color: #ff6666;
+        margin-right: 4px;
+      }
+   
+      .gwt-TabPanel {
+        margin-top: 4px;
+      }
+
+      .gwt-TabPanelBottom {
+        background-color: #E8EEF7;
+      }    

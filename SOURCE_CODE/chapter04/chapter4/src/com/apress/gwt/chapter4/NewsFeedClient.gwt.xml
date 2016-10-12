@@ -1,0 +1,10 @@
+<module>
+
+	<!-- Inherit the core Web Toolkit stuff.                  -->
+	<inherits name='com.google.gwt.user.User'/>
+
+	<!-- Specify the app entry point class.                   -->
+	<entry-point class='com.apress.gwt.chapter4.client.NewsFeedClient'/>
+
+    <servlet path="/News" class="com.apress.gwt.chapter4.server.NewsFeedServer" /> 
+</module>

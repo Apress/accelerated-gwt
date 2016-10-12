@@ -1,0 +1,1 @@
+@java -Dgwt.args="-web -out www-test" -cp "%~dp0\src;%~dp0\test;%~dp0\bin;C:/gwt/junit.jar;C:/gwt/gwt-user.jar;C:/gwt/gwt-dev-windows.jar" junit.textui.TestRunner com.apress.gwt.chapter3.client.TestLoanServicingSystem %*

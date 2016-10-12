@@ -1,0 +1,1 @@
+@java -cp "%~dp0\src;%~dp0\bin;C:/gwt/gwt-user.jar;C:/gwt/gwt-dev-windows.jar;%~dp0/lib/PropertyFileReader.jar;%~dp0\res" com.google.gwt.dev.GWTShell -out "%~dp0\www" %* com.apress.gwt.chapter9.ModuleChecker/ModuleChecker.html
